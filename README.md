@@ -1,6 +1,6 @@
 # Secret-Neighbor-1.0.8.11-OD
 
-![image alt](https://github.com/ryszarddev/Secret-Neighbor-1.0.8.11-OD/blob/main/images/SN.jpg?raw=true)
+![image alt](https://raw.githubusercontent.com/ryszarddev/Secret-Neighbor-1.0.8.11-OD/refs/heads/main/images/SN%20(1).jpg)
 
 # *discord : https://discord.gg/gH47VYGJ2E*
 
