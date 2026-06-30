@@ -2,6 +2,7 @@
 
 ![image alt](https://raw.githubusercontent.com/ryszarddev/Secret-Neighbor-1.0.8.11-OD/refs/heads/main/images/SN%20(1).jpg)
 
+# *Note : Every cosmetic item in this version is unlocked!*
 # *discord : https://discord.gg/gH47VYGJ2E*
 
 This repository serves as a playable version and preservation of Secret Neighbor 1.0.8.11.
